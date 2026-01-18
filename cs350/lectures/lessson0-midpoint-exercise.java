@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class Lesson1 {
+class Lesson0 {
     public static void main(String[] argv) {
         String name;
         double m, x1, x2, y1, y2;
